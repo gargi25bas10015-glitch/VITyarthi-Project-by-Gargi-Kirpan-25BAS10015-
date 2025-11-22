@@ -1,5 +1,5 @@
 # VITyarthi-Project-by-Gargi-Kirpan-25BAS10015-
-Project title: To=Do List CLI App
+Project title: To-Do List CLI App
 
 Overview : 
 	   This project is a simple command-line to-do list application built with Python. It allows users to add, view, and delete tasks efficiently from the terminal.  
