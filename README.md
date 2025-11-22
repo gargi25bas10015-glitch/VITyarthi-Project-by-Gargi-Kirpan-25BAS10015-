@@ -27,3 +27,10 @@ Select option 3 to delete a task by entering its number.
 Enter invalid inputs such as letters or numbers out of range to test error handling.
 Exit the program by selecting option 4.
 Testing is manual via menu interaction. Observe confirmation and error messages for expected behavior.
+
+
+Screenshots
+<img width="676" height="901" alt="Screenshot 2025-11-23 013354" src="https://github.com/user-attachments/assets/65753a83-781f-41ad-a120-a1687f3d3c3b" />
+<img width="698" height="944" alt="Screenshot 2025-11-23 013648" src="https://github.com/user-attachments/assets/14d9c55c-dfde-48ff-9be5-98a5568e9e0d" />
+
+
